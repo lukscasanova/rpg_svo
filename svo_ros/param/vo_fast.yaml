@@ -1,3 +1,8 @@
 grid_size: 30
-max_n_kfs: 10
-loba_num_iter: 0
+# max_n_kfs: 20
+loba_num_iter: 10
+max_fts: 200
+n_pyr_levels: 6
+reproj_thresh: 10.
+poseoptim_thresh: 10.
+loba_thresh: 10.0
